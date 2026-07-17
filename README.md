@@ -48,7 +48,7 @@ Built and tested on a breadboard.
 
 ## Testing & Verification
 *VIDEO LINK:*
-https://drive.google.com/drive/folders/1Xddc TXtZv7MGTfhnNiKatmt88JqC6Lec
+https://drive.google.com/drive/folders/1XddcTXtZv7MGTfhnNiKatmt88JqC6Lec
 
 The circuit was simulated to validate detection response, followed by physical prototype testing to confirm the alarm and pump activation on light/fire exposure.
 
