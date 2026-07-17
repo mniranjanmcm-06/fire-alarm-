@@ -21,8 +21,7 @@ The design was built under the explicit constraint of **not using any ICs or dri
 
 **Configuration:** Common-collector (emitter-follower) — the buzzer, LED, and water pump are connected at the transistor's emitter, with the collector tied to Vcc.
 
-![Circuit Schematic](images/circuit-schematic.png)
-*Photodiode–BC548 fire detection circuit driving buzzer, LED, and water pump*
+
 
 ## Working Principle
 
@@ -37,13 +36,19 @@ Since the base drive is analog/proportional rather than a digital trigger, and n
 
 Built and tested on a breadboard.
 
-![Prototype Photo](images/prototype-photo.png)
+<img width="537" height="405" alt="image" src="https://github.com/user-attachments/assets/4f0113c7-d435-46c8-a25f-6ea60708d646" />
+
+
+<img width="410" height="257" alt="image" src="https://github.com/user-attachments/assets/39c20480-6f9b-445f-9211-16c717f28c3e" />
+
 *Breadboard prototype of the fire alarm and water suppression circuit*
 
 **Total Prototype Cost:** ₹130
 (Battery ₹30, DC Motor ₹50, Buzzer/LED/Resistor/Transistor/Photodiode ₹50)
 
 ## Testing & Verification
+*VIDEO LINK:*
+https://drive.google.com/drive/folders/1Xddc TXtZv7MGTfhnNiKatmt88JqC6Lec
 
 The circuit was simulated to validate detection response, followed by physical prototype testing to confirm the alarm and pump activation on light/fire exposure.
 
